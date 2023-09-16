@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/vdnKc0p/Rectangle-2-2.png",
+    "name": "Introduction to C Programming",
+    "details": "Learn the basics of C programming in this introductory course. Covers syntax, data types, and control structures.",
+    "price": 49.99,
+    "credit": 6
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/Y3vhsMR/Rectangle-2-3.png",
+    "name": "Introduction to Algorithms",
+    "details": "Explore fundamental algorithms and problem-solving techniques. Topics include sorting, searching, and complexity analysis.",
+    "price": 39.99,
+    "credit": 4
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/FbXMYQH/Rectangle-2-4.png",
+    "name": "Introduction to C++ for DSA",
+    "details": "Start your journey in C++ for Data Structures and Algorithms. Covers pointers, classes, and basic data structures.",
+    "price": 59.99,
+    "credit": 8
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/xggvgwn/Rectangle-3.png",
+    "name": "Basic Data Structures",
+    "details": "Master essential data structures like arrays, linked lists, and stacks. Practical implementation and usage are emphasized.",
+    "price": 69.99,
+    "credit": 7
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/BfLNwVY/Rectangle-2.png",
+    "name": "Introduction to OOP Python",
+    "details": "Delve into object-oriented programming with Python. Learn classes, inheritance, and encapsulation through real-world examples.",
+    "price": 79.99,
+    "credit": 9
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/sJgqPWw/Rectangle-2-5.png",
+    "name": "Software Engineering",
+    "details": "Discover software engineering principles. Covers requirements, design, testing, and project management in software development.",
+    "price": 64.99,
+    "credit": 5
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/p1pHk72/Rectangle-3-1.png",
+    "name": "AWS Cloud Computing",
+    "details": "Learn cloud computing with AWS. Topics include EC2, S3, and networking. Hands-on labs for practical experience.",
+    "price": 149.99,
+    "credit": 10
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/LZY62z7/Rectangle-2-1.png",
+    "name": "Database (MySQL)",
+    "details": "Master MySQL for database management. Covers SQL, database design, and administration for real-world applications.",
+    "price": 79.99,
+    "credit": 8
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/L80rHDD/Rectangle-2-6.png",
+    "name": "Problem-Solving Part",
+    "details": "Enhance your problem-solving skills with practical exercises. Learn algorithmic techniques to tackle complex problems.",
+    "price": 29.99,
+    "credit": 3
+  }
+]
