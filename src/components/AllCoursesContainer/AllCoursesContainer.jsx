@@ -6,7 +6,7 @@ const AllCoursesContainer = ({handleSelectedCourse}) => {
   const [courses, setCourses] = useState([]);
 
   useEffect(() => {
-    fetch('../../../public/fakeData.json')
+    fetch('fakeData.json')
     .then((res) => res.json())
     .then((data) => setCourses(data))
   },[])
